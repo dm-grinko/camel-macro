@@ -2,7 +2,7 @@
 
     "name": "camel-macro",
     "description": "This package converts a string from camel case to macro case.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "index.js",
     "scripts": {
         "camel-macro": "node ./index",

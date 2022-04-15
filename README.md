@@ -11,8 +11,8 @@ This package converts a string from camel case to macro case.
 
 - Install package: `npm i -S camel-macro`
 
-``` json
-const toMacro = require('./index');
+``` js
+const toMacro = require('camel-macro');
 
 const test = toMacro('testTestTest'); // TEST_TEST_TEST
 
