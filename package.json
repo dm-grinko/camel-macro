@@ -1,0 +1,30 @@
+{
+
+    "name": "camel-macro",
+    "description": "This package converts a string from camel case to macro case.",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "camel-macro": "node ./index",
+        "test": "node ./test"
+    },
+    "bin": {
+        "camel-macro": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dm-grinko/camel-macro.git"
+    },
+    "keywords": [
+        "camel",
+        "case",
+        "macro",
+        "convert"
+    ],
+    "author": "Dmitry Grinko <dm.grinko@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dm-grinko/camel-macro/issues"
+    },
+    "homepage": "https://github.com/dm-grinko/camel-macro#readme"
+}
